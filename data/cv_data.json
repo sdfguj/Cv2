@@ -1,0 +1,93 @@
+{
+  "title": "AKMALKHON IBRAGIMOV",
+  "credit": "Written & Architected by",
+  "author": "Akmalkhon Ibragimov",
+  "draft_date": "CURRENT DRAFT - 2026",
+  "contact": "Email: contact@akmalkhon.com | GitHub: github.com/sdfguj/Cv | Web: sdfguj.github.io/Cv",
+  "scene_heading": "INT. SYSTEM ARCHITECTURE / GRAPHICS LAB - NIGHT",
+  "action": "A single-page interactive curriculum vitae designed with raw monospaced aesthetic. Fusing 15+ years of real-world logistics, systems engineering, and creative technology into precise interactive code.",
+  "sections": [
+    {
+      "heading": "CHARACTER PROFILE & CORE STACK",
+      "character": "AKMALKHON",
+      "dialogue": "I bridge the gap between hard technical logic and real-time visual art. My focus spans graphics shader pipelines, Eulerian-Lagrangian fluid solvers, AWS infrastructure, and interactive installations.",
+      "cue": "(parenthetical)",
+      "cue_text": "listing active technical toolset",
+      "list_items": [
+        "Languages: Python, GLSL/HLSL, JavaScript, HTML5/CSS3, C++",
+        "Real-Time Visual Systems: TouchDesigner, Unreal Engine 5, P5.js, WebGL",
+        "Infrastructure & Operations: AWS Cloud Management, Linux Admin, CI/CD, Docker",
+        "Math & Physics Models: Navier-Stokes Fluid Solvers, Gerstner Waves, Shaders"
+      ]
+    },
+    {
+      "heading": "SCENE I - RECENT EXPERIENCE & PROJECTS",
+      "character": "PRODUCTION SEQUENCE",
+      "dialogue": "A timeline of engineering, infrastructure administration, and multi-disciplinary systems deployment across international environments.",
+      "cue": "(chronological cut)",
+      "cue_text": "2006 to 2026 timeline",
+      "timeline": [
+        {
+          "slug": "EXT. JILIN ANIMATION INSTITUTE - DAY (2022 - 2026)",
+          "title": "Interactive Systems Developer & Visual Engineer",
+          "details": "Developing custom real-time fluid dynamics engines, TouchDesigner OSC gyroscope linkages, and procedural particle systems."
+        },
+        {
+          "slug": "INT. SPEECHTOPIA BEIJING TECH - NIGHT (2019 - 2020)",
+          "title": "Systems & Infrastructure Administrator",
+          "details": "Managed AWS cloud setups, deployment pipelines, and code review approvals for high-throughput service environments."
+        },
+        {
+          "slug": "INT. 2020TESOL.COM - DAY (2015 - 2018)",
+          "title": "Full-Stack Web Platform Developer",
+          "details": "Architected full educational web platform infrastructure, database schemas, and frontend interaction models."
+        },
+        {
+          "slug": "EXT. SUBWAY VANLINES / USA - CONTINUOUS (2013 - 2015)",
+          "title": "Interstate Logistics Subcontractor & Operations Lead",
+          "details": "Supervised end-to-end commercial interstate transport operations, client relations, and cross-country logistics routing."
+        },
+        {
+          "slug": "INT. BEST WESTERN PLUS (NJ) - FLOOD EMERGENCY (2011 - 2013)",
+          "title": "Maintenance & Hospitality Infrastructure Lead",
+          "details": "Managed 12-person staff and restored critical IT and physical security surveillance systems after historic regional flooding."
+        },
+        {
+          "slug": "INT. ZERVANA (DUSHANBE) - DAY (2006 - 2007)",
+          "title": "Founding Team Member & CMS Lead",
+          "details": "Managed mobile VAS content systems, batch CLI Windows audio formatting, and audio processing pipelines."
+        }
+      ]
+    },
+    {
+      "heading": "SCENE II - ACADEMIC BACKGROUND",
+      "character": "EDUCATION HISTORY",
+      "dialogue": "Continuous interdisciplinary studies bridging diplomacy, telecommunications, film production, and computer graphics.",
+      "cue": "(academic record)",
+      "cue_text": "institutional degrees & focus",
+      "timeline": [
+        {
+          "slug": "JILIN ANIMATION INSTITUTE (2022 - 2026)",
+          "title": "B.A. in Animation Art",
+          "details": "Focus on interactive media installations, custom shader logic, and real-time visual hardware integration."
+        },
+        {
+          "slug": "BEIJING FILM ACADEMY (2018)",
+          "title": "Film Production & Cinematography Studies",
+          "details": "Focused on visual narrative structure, pacing, dramatic framing, and cinematic composition."
+        },
+        {
+          "slug": "BLUEGRASS COMMUNITY COLLEGE (2009)",
+          "title": "Telecommunications Engineering",
+          "details": "Networking architecture, digital signal fundamentals, and hardware communication standards."
+        },
+        {
+          "slug": "RUSSIAN TAJIK SLAVONIC UNIVERSITY (2006)",
+          "title": "Diplomacy & International Studies",
+          "details": "Foundational studies in international relations, formal syntax, and cross-cultural communication."
+        }
+      ]
+    }
+  ],
+  "fade_out": "FADE OUT."
+}
